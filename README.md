@@ -18,6 +18,7 @@ CASE2：测试去台标区域的效果，以便更好地优化lgd文件以及参
     DelogoTest("Fuji 1440x1080.lgd", 1292,56,-76,-928)
 
 CASE3：先注册logo数据，之后轻松部署
+
 在脚本最前面使用DelogoReg函数进行注册：
 
     DelogoReg("CX", "Fuji 1440x1080.lgd", 1292,56,-76,-928)
