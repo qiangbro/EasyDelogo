@@ -9,11 +9,6 @@ EasyDelogo Kit 核心模块 — Core。
 mikey@有村花纯字幕组
 
 
-REQUIREMENTS:
-
-avisynth+, delogo.dll, FFT3DFilter, MaskTools2, RgTools, logoNR_v0.1.avsi
-
-
 # 用例及代码示例：
 导入
 
@@ -37,3 +32,8 @@ CASE3：先注册logo数据，之后轻松部署
 此后你的脚本中只需这样写：
 
     Delogo("CX")
+
+
+
+# REQUIREMENTS
+avisynth+, delogo.dll, FFT3DFilter, MaskTools2, RgTools, logoNR_v0.1.avsi
