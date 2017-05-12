@@ -9,6 +9,11 @@ EasyDelogo Kit 核心模块 — Core。
 mikey@有村花纯字幕组
 
 
+REQUIREMENTS:
+
+avisynth+, delogo.dll, FFT3DFilter, MaskTools2, RgTools, logoNR_v0.1.avsi
+
+
 # 用例及代码示例：
 导入
 
