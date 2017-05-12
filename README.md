@@ -1,7 +1,8 @@
 # EasyDelogo
 
-EasyDelogo Kit 核心模块 — Core模块。
-至于这东西是做什么用的，嗯，实质就是先EraseLOGO然后logoNR。
+EasyDelogo Kit 核心模块 — Core。
+
+至于这东西是做什么用的，嗯，实质就是先EraseLOGO然后logoNR一条龙。
 
 仅供学习研究，请勿非法滥用及侵害他人权益。
 
